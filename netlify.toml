@@ -1,0 +1,4 @@
+[build]
+  base = "oroglee-frontend"
+  command = "npm install && npm run build"
+  publish = "build"
